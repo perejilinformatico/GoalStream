@@ -1,85 +1,95 @@
-# React + TypeScript + Vite
+# 🚀 Proyecto Web
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Una aplicación web moderna construida con un stack sólido y enfocada en rendimiento, diseño y experiencia de usuario.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🧩 Tecnologías usadas
 
-## React Compiler
+![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5\&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3\&logoColor=white)
+![APIs](https://img.shields.io/badge/APIs-FF6F00?logo=fastapi\&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react\&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript\&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css\&logoColor=white)
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+---
 
-Note: This will impact Vite dev & build performances.
+## ✨ Features
 
-## Expanding the ESLint configuration
+* ⚡ Interfaz rápida y responsiva
+* 🎨 Diseño moderno con Tailwind
+* 🔗 Integración con APIs externas
+* 🧠 Lógica tipada con TypeScript
+* ⚛️ Componentes reutilizables con React
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+---
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+## 📸 Preview
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+*Agregá acá una imagen o gif de tu proyecto*
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+```md
+![preview](link-a-tu-imagen)
 ```
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+---
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+## 🛠️ Instalación
 
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
+```bash
+# Clonar el repo
+git clone https://github.com/tu-usuario/tu-repo.git
+
+# Entrar al proyecto
+cd tu-repo
+
+# Instalar dependencias
+npm install
+
+# Correr el proyecto
+npm run dev
 ```
-# tecnologias usadas
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=white)
-![APIs](https://img.shields.io/badge/APIs-FF6F00?logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white)
+---
 
-<div style="background-color: skyblue; width: 100px; height
+## 🌐 Demo
+
+*Agregá acá el link a tu deploy*
+
+```
+https://tu-proyecto.com
+```
+
+---
+
+## 📂 Estructura
+
+```
+src/
+ ├── components/
+ ├── pages/
+ ├── services/   # llamadas a APIs
+ ├── styles/
+ └── App.tsx
+```
+
+---
+
+## 🚧 Estado
+
+En desarrollo 🚀
+(Siempre mejorando y agregando cosas nuevas)
+
+---
+
+## 🤝 Contribuciones
+
+Si querés aportar algo, sos más que bienvenido.
+Forkeá el repo y mandá un PR.
+
+---
+
+## 📬 Contacto
+
+Podés contactarme para proyectos o ideas 🙌
