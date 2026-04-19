@@ -75,14 +75,8 @@ export default defineConfig([
 ```
 # tecnologias usadas
 
-<div style="background-color: skyblue; width: 100px; height: 100px;">
-  <h1>REACT</h1>
-</div>
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?logo=tailwind-css&logoColor=white)
 
-<div style="background-color: blue; width: 100px; height: 100px;">
-  <h1>TYPESCRIPT</h1>
-</div>
-
-<div style="background-color: skyblue; width: 100px; height: 100px;">
-  <h1>TAILWIND</h1>
-</div>
+<div style="background-color: skyblue; width: 100px; height
