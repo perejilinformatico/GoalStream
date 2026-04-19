@@ -1,4 +1,4 @@
-# 🚀 Proyecto Web
+# GoalStream 
 
 Una aplicación web moderna construida con un stack sólido y enfocada en rendimiento, diseño y experiencia de usuario.
 
