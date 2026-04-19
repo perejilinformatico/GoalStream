@@ -44,14 +44,6 @@ npm run dev
 ```
 
 
-## 🌐 Demo
-
-*Agregá acá el link a tu deploy*
-
-```
-https://tu-proyecto.com
-```
-
 ---
 
 ## 📂 Estructura
