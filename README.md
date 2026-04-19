@@ -25,14 +25,6 @@ Una aplicación web moderna construida con un stack sólido y enfocada en rendim
 
 ---
 
-## 📸 Preview
-
-*Agregá acá una imagen o gif de tu proyecto*
-
-```md
-![preview](link-a-tu-imagen)
-```
-
 ---
 
 ## 🛠️ Instalación
@@ -51,7 +43,6 @@ npm install
 npm run dev
 ```
 
----
 
 ## 🌐 Demo
 
