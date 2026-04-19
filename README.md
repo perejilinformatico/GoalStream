@@ -75,16 +75,14 @@ export default defineConfig([
 ```
 # tecnologias usadas
 
-<div style="background-color: skyblue; widht: 100px; height: 100px;">
-<h1>REACT</h1>
+<div style="background-color: skyblue; width: 100px; height: 100px;">
+  <h1>REACT</h1>
 </div>
 
-
-<div style="background-color: blue; widht: 100px; height: 100px;">
-<h1>TYPESCRIPT</h1>
+<div style="background-color: blue; width: 100px; height: 100px;">
+  <h1>TYPESCRIPT</h1>
 </div>
 
-
-<div style="background-color: skyblue; widht: 100px; height: 100px;">
-<h1>TAILWIND</h1>
+<div style="background-color: skyblue; width: 100px; height: 100px;">
+  <h1>TAILWIND</h1>
 </div>
